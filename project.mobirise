@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -135,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pita Aerotec d.o.o.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Who we are<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Company History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Airlines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Civil Aviation Authorities</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Training Courses</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Customers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Who we are<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Customers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -238,7 +238,7 @@
           },
           "_anchor": "header2-3",
           "_params": {
-            "imageSize": "52",
+            "imageSize": "49",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -251,7 +251,7 @@
             "overlay": true,
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
@@ -279,8 +279,8 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "title": "Who we are?",
+          "text": "Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016 by me, Omer Pita, the single owner and director of the company. Decision to open small independent consulting company was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management in Maintenance and finally in the area of Civil Aviation Authority. Being from small country, I always worked in small organizations and was always in a position to fulfill regulatory requirements and maintain adequate safety levels in the organization using relatively limited resources, as they always are in such organizations. That kind of experience I find to be very rare on the consultant's business market as most of established consulting companies are staffed with experienced personnel from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -304,11 +304,11 @@
           "_anchor": "header3-5",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColor": "#ffffff",
-            "showMeta": true
+            "showMeta": false
           },
-          "title": "Title with Solid Background Color",
+          "title": "Services for Airlines and Aircraft Maintenance Organizations",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -328,285 +328,98 @@
             "paddingBottom": "6",
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>&nbsp;<b>Consulting:</b></p><ul><li>Quality &amp; Compliance Management implementation in Aviation Organizations</li><li>EASA compliance review and consulting:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 145,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part M,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 147,&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Air OPS</span></li><li>IOSA compliance review and consulting</li><li>ICAO compliance review and consulting:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Annex 6, 8, 19</span></li></ul><ul><li>Safety Management Systems (ICAO Annex 19) c<span style=\"font-size: 1.07rem; line-height: 1.5;\">ompliance review and consulting</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Performance of internal quality/compliance audits per EASA   regulations and ICAO standards</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part M</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 145</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Development of organization manuals:&nbsp;</b></span><br></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">CAME Continuing Airworthiness Management Exposition (Part M)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintenance Organization Exposition Manual (Part 145),</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintenance Management Exposition Manual (ICAO Ann6, 8),&nbsp;</span><br></li><li>Quality Manual,&nbsp;</li><li>Safety Management Manual (ICAO Ann19)</li></ul><p><br></p><p><b>Aircraft purchase/lease/sales agreements assistance</b></p>",
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>CAMO and fleet management services (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b>:</span><br></p><ul><li>A320f</li><li>ATR42</li><li>B767</li><li>Dash-8-Q400</li><li>other types possible</li></ul><p><br></p><p><b>AOC Start-up projects - turnkey solutions (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b></p><p><br></p><p><b>Training courses:</b></p><ul><li>&nbsp;Quality and Compliance Management Systems in Aviation</li><li>&nbsp;Aviation Quality Auditor's Training - Initial</li><li>&nbsp;Aviation Quality Auditor's Training - Advanced</li><li>&nbsp;Aircraft Maintenance Program and Maintenance Reliability Training</li></ul><p>&nbsp;</p><div><b>Personnel assignment to postholder functions (full time/part time):</b></div><ul><li>Accountable Executive</li><li>Postholder Maintenance and Engineering</li><li>Quality/Compliance Manager</li></ul>"
         },
         {
           "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
-            },
-            "H4": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-9",
+          "_name": "header3",
+          "_anchor": "header3-k",
           "_params": {
-            "iconsBgColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Services for Civil Aviation Authorities",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "6",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Consulting:</b></p><ul><li>Review and proposal of CAA restructuring to achieve compliance with EASA and/or ICAO standards</li><li>National legal framework for ICAO compliant CAA</li><li>Strategic Planning and Financing of CAA</li><li>Compliance with EASA Authority Requirements - review and preparation for EASA standardization visits</li><li>Compliance with ICAO standards and recommended practices - review and preparation for ICAO USOAP and FAA IASA audits</li><li>Development of State Safety Program (ICAO Annex 19)</li></ul><p>&nbsp;</p>",
+          "text2": "<p><b>Training:</b></p><ul><li>Quality and Compliance Management System in CAA</li><li>Internal Quality Auditor's Training Initial</li><li>Internal Quality Auditor's Training Advanced</li><li>CAA Initial Inspector's Training</li><li>Aircraft Maintenance Program and Maintenance Reliability Program for CAA Inspectors Training</li><li>Development and Follow-up of State Safety Program </li></ul><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-i",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 3,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "linkInNewWindow": false,
-              "name": "home",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "black",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials2",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-subtitle": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".card-block P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".card-footer > div": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".card-footer > small": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials2-b",
-          "_params": {
-            "count": 3,
-            "paddingTop": "4",
-            "paddingBottom": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.2,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
-          },
-          "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#000000",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".lead P": {
-              "color": "#000000",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-c",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iconamet-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Pita Aerotec d.o.o.<br>Petra pl. Skrleca 2<br>10410 Velika Gorica<br>Croatia<br>",
+          "text2": "<p><strong>Contact:</strong><br>Omer Pita, director</p><p>Email: omer.pita@inet.hr<br>\nPhone CRO: +385 (99) 2772 001<br>Phone HK: +852 6356 4004</p><p>Whatsapp: +852 6356 4004</p><p>Skype: omer.pita<br>Web: https://pitaaerotec.github.io</p>",
+          "text3": "<strong>Links</strong><br><a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCats</a><br><a href=\"http://www.hkacs.com.hk\" target=\"_blank\">HKACS</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Go to Top</a>"
         }
       ]
     },
@@ -711,7 +524,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pita Aerotec d.o.o.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutus.html\">Who we are<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Company History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Airlines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Civil Aviation Authorities</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Training Courses</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Customers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Who we are<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Customers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",

@@ -19,16 +19,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 body,
 input,
 textarea,
@@ -559,46 +549,12 @@ h6,
 #content6-7 P {
   font-family: 'Oxygen', sans-serif;
 }
-#features4-9 .card-subtitle {
-  color: #bcbcbc;
-  font-family: 'Oxygen', sans-serif;
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
 }
-#features4-9 .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-#features4-9 H4 {
-  font-family: 'Oxygen', sans-serif;
-}
-#features4-9 P {
-  font-family: 'Oxygen', sans-serif;
-}
-#testimonials2-b .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#testimonials2-b .mbr-section-subtitle {
-  font-family: 'Oxygen', sans-serif;
-}
-#testimonials2-b .card-block P {
-  font-family: 'Oxygen', sans-serif;
-}
-#testimonials2-b .card-footer > div {
-  font-family: 'Oxygen', sans-serif;
-}
-#testimonials2-b .card-footer > small {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box8-c .mbr-section-title,
-#msg-box8-c p {
-  color: #fff;
-}
-#msg-box8-c .mbr-section-title {
+#contacts1-i P {
   color: #000000;
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box8-c .lead P {
-  color: #000000;
-  font-family: 'Oxygen', sans-serif;
 }
 
 
