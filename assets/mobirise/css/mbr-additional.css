@@ -553,6 +553,10 @@ h6,
 #header3-k .mbr-section-subtitle {
   text-align: center;
 }
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-i P {
   color: #000000;
 }
