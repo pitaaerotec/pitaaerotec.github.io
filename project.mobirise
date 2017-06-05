@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Pita Aerotec",
+        "meta_descr": "Main page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -280,7 +280,7 @@
             }
           },
           "title": "Introduction",
-          "text": "My name is Omer Pita and I am owner and director of Pita Aerotec d.o.o. <br>Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start &nbsp;small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management in Maintenance and finally in the area of Civil Aviation Authority. Being from small country, I always worked in small organizations and was always in a position to fulfill regulatory requirements and maintain adequate safety levels in the organization using relatively limited resources, as they always are in such organizations. That kind of experience I find to be very rare on the consultant's business market as most of established consulting companies are staffed with experienced personnel from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
+          "text": "My name is Omer Pita and I am owner and director of Pita Aerotec d.o.o. <br>Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start &nbsp;small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare on the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT OMER PITA</a>"
         },
         {
@@ -325,11 +325,24 @@
           "_anchor": "content6-7",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "6",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "text1": "<p>&nbsp;<b>Consulting:</b></p><ul><li>Quality &amp; Compliance Management implementation in Aviation Organizations</li><li>EASA compliance review and consulting:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 145,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part M,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 147,&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Air OPS</span></li><li>IOSA compliance review and consulting</li><li>ICAO compliance review and consulting:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Annex 6, 8, 19</span></li></ul><ul><li>Safety Management Systems (ICAO Annex 19) c<span style=\"font-size: 1.07rem; line-height: 1.5;\">ompliance review and consulting</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Performance of internal quality/compliance audits per EASA   regulations and ICAO standards</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part M</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 145</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Development of organization manuals:&nbsp;</b></span><br></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">CAME Continuing Airworthiness Management Exposition (Part M)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintenance Organization Exposition Manual (Part 145),</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintenance Management Exposition Manual (ICAO Ann6, 8),&nbsp;</span><br></li><li>Quality Manual,&nbsp;</li><li>Safety Management Manual (ICAO Ann19)</li></ul><p><br></p><p><b>Aircraft purchase/lease/sales agreements assistance</b></p><p><b><br></b></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>CAMO and fleet management services (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b>:</span><br></p><ul><li>A320f</li><li>ATR42</li><li>B767</li><li>Dash-8-Q400</li><li>other types possible</li></ul><p><br></p><p><b>AOC Start-up projects - turnkey solutions (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b></p><p><br></p><p><b>Training courses:</b></p><ul><li>&nbsp;Quality and Compliance Management Systems in Aviation</li><li>&nbsp;Aviation Quality Auditor's Training - Initial</li><li>&nbsp;Aviation Quality Auditor's Training - Advanced</li><li>&nbsp;Aircraft Maintenance Program and Maintenance Reliability Training</li></ul><p>&nbsp;</p><div><b>Personnel assignment to postholder functions (full time/part time):</b></div><ul><li>Accountable Executive</li><li>Postholder Maintenance and Engineering</li><li>Quality/Compliance Manager</li></ul>"
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>CAMO and fleet management services (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b>:</span><br></p><ul><li>A320 family</li><li>ATR42</li><li>B767</li><li>Dash-8-Q400</li><li>other types possible</li></ul><p><br></p><p><b>AOC Start-up projects - turnkey solutions (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b></p><p><br></p><p><b>Training courses:</b></p><ul><li>&nbsp;Quality and Compliance Management Systems in Aviation</li><li>&nbsp;Aviation Quality Auditor's Training - Initial</li><li>&nbsp;Aviation Quality Auditor's Training - Advanced</li><li>&nbsp;Aircraft Maintenance Program and Maintenance Reliability Training</li></ul><p>&nbsp;</p><div><b>Personnel assignment to postholder functions (full time/part time):</b></div><ul><li>Accountable Executive</li><li>Postholder Maintenance and Engineering</li><li>Quality/Compliance Manager</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Go to Top</a>"
         },
         {
           "_styles": {
@@ -359,11 +372,24 @@
           "_anchor": "content6-l",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "6",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "text1": "<p><b>Consulting:</b></p><ul><li>Review and proposal of CAA restructuring to achieve compliance with EASA and/or ICAO standards</li><li>National legal framework for ICAO compliant CAA</li><li>Strategic Planning and Financing of CAA</li><li>Compliance with EASA Authority Requirements - review and preparation for EASA standardization visits</li><li>Compliance with ICAO standards and recommended practices - review and preparation for ICAO USOAP and FAA IASA audits</li><li>Development of State Safety Program (ICAO Annex 19)</li></ul><p>&nbsp;</p>",
           "text2": "<p><b>Training:</b></p><ul><li>Quality and Compliance Management System in CAA</li><li>Internal Quality Auditor's Training Initial</li><li>Internal Quality Auditor's Training Advanced</li><li>CAA Initial Inspector's Training</li><li>Aircraft Maintenance Program and Maintenance Reliability Program for CAA Inspectors Training</li><li>Development and Follow-up of State Safety Program </li></ul><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Go to Top</a>"
         },
         {
           "_tags": [
@@ -416,7 +442,7 @@
           "_anchor": "buttons1-m",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#efefef"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Go to Top</a>"
@@ -425,8 +451,8 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "title": "Omer Pita",
+        "meta_descr": "More about Pita"
       },
       "components": [
         {
@@ -557,9 +583,9 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-o",
           "_params": {
-            "imageSize": "39",
+            "imageSize": "50",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -575,7 +601,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -600,8 +626,35 @@
             }
           },
           "title": "Omer Pita",
-          "text": "Omer has graduated on Zagreb University, Faculty of Transport Engineering and has been working in aviation industry since 1984. His field of expertise is aircraft maintenance and engineering, quality/compliance management in aviation and civil aviation authority management. <br>During his career he has held following management positions in aviation: Manager Material Planning, Manager Production Planning, Quality Manager in Maintenance, Director Aircraft Maintenance and Director of Croatian Civil Aviation Agency, President of Croatian National Safety Board. <br>He has following additional experience/expertise: EOQ Quality Manager, EOQ Quality Auditor, DGR Instructor, Head of Aircraft Maintenance Study and lecturer at University of Applied Sciences Velika Gorica. <br>During his 30+ years long career he has been involved in many projects such as: setting up and starting up engineering and maintenance activities in Croatia Airlines; organising logistics support to maintenance; aircraft purchasing, leasing and sales; aircraft acceptance inspections; development of Part M compliant airworthiness review procedures; development of Part M/Part145 exposition manuals; Part M/145 certification; aircraft maintenance hangar construction project management; development of MRO activities in Croatia Airlines; initial setup, start up and management of Croatian Civil Aviation Authority, establishment of Aircraft Maintenance Study at University of Applied Sciences Velika Gorica, EU Twinning Project management to support CAA of the Republic of Georgia. <br>Most recent project involves setting up a Hong Kong start-up airline South Pacific Airlines.",
+          "text": "Omer has graduated on Zagreb University, Faculty of Transport Engineering and has been working in aviation industry since 1984. His field of expertise is aircraft maintenance and engineering, quality/compliance management in aviation and civil aviation authority management. <br>During his career he has held following management positions in aviation: Manager Material Planning, Manager Production Planning, Quality Manager in Maintenance, Director Aircraft Maintenance and Director of Croatian Civil Aviation Agency, President of Croatian National Safety Board. <br>He has following additional experience/expertise: EOQ Quality Manager, EOQ Quality Auditor, DGR Instructor, Head of Aircraft Maintenance Study and lecturer at University of Applied Sciences Velika Gorica. <br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-t",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "",
+          "text2": "<p>During his 30+ years long career he has been involved in many projects such as: </p><ul><li>setting up and starting up engineering and maintenance activities in Croatia Airlines; </li><li>organizing logistics support to maintenance; </li><li>aircraft purchasing, leasing and sales; </li><li>aircraft acceptance inspections; </li><li>development of Part M compliant airworthiness review procedures; </li><li>development of Part M/Part145 exposition manuals; </li><li>Part M/145 certification; </li><li>aircraft maintenance hangar construction project management; </li><li>development of MRO activities in Croatia Airlines; </li><li>initial setup, start up and management of Croatian Civil Aviation Authority, </li><li>establishment of Aircraft Maintenance Study at University of Applied Sciences Velika Gorica, </li><li>EU Twinning Project management to support CAA of the Republic of Georgia.&nbsp;</li></ul><p>Most recent project in 2017 involves setting up South Pacific Airlines, a Hong Kong based start-up airline.</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Go Back</a>"
         }
       ]
     }
