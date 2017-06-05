@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -135,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pita Aerotec d.o.o.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Who we are<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Customers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -254,7 +254,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false
           },
           "media": {
@@ -279,9 +279,9 @@
               "size": 250
             }
           },
-          "title": "Who we are?",
-          "text": "Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016 by me, Omer Pita, the single owner and director of the company. Decision to open small independent consulting company was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management in Maintenance and finally in the area of Civil Aviation Authority. Being from small country, I always worked in small organizations and was always in a position to fulfill regulatory requirements and maintain adequate safety levels in the organization using relatively limited resources, as they always are in such organizations. That kind of experience I find to be very rare on the consultant's business market as most of established consulting companies are staffed with experienced personnel from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "Introduction",
+          "text": "My name is Omer Pita and I am owner and director of Pita Aerotec d.o.o. <br>Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start &nbsp;small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management in Maintenance and finally in the area of Civil Aviation Authority. Being from small country, I always worked in small organizations and was always in a position to fulfill regulatory requirements and maintain adequate safety levels in the organization using relatively limited resources, as they always are in such organizations. That kind of experience I find to be very rare on the consultant's business market as most of established consulting companies are staffed with experienced personnel from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT OMER PITA</a>"
         },
         {
           "_styles": {
@@ -512,10 +512,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/iconamet-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -524,7 +526,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pita Aerotec d.o.o.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Who we are<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Customers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -547,6 +549,59 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Pita Aerotec d.o.o."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-o",
+          "_params": {
+            "imageSize": "39",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0ee9b62b00847f213690a6db970f14bb-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Omer Pita",
+          "text": "Omer has graduated on Zagreb University, Faculty of Transport Engineering and has been working in aviation industry since 1984. His field of expertise is aircraft maintenance and engineering, quality/compliance management in aviation and civil aviation authority management. <br>During his career he has held following management positions in aviation: Manager Material Planning, Manager Production Planning, Quality Manager in Maintenance, Director Aircraft Maintenance and Director of Croatian Civil Aviation Agency, President of Croatian National Safety Board. <br>He has following additional experience/expertise: EOQ Quality Manager, EOQ Quality Auditor, DGR Instructor, Head of Aircraft Maintenance Study and lecturer at University of Applied Sciences Velika Gorica. <br>During his 30+ years long career he has been involved in many projects such as: setting up and starting up engineering and maintenance activities in Croatia Airlines; organising logistics support to maintenance; aircraft purchasing, leasing and sales; aircraft acceptance inspections; development of Part M compliant airworthiness review procedures; development of Part M/Part145 exposition manuals; Part M/145 certification; aircraft maintenance hangar construction project management; development of MRO activities in Croatia Airlines; initial setup, start up and management of Croatian Civil Aviation Authority, establishment of Aircraft Maintenance Study at University of Applied Sciences Velika Gorica, EU Twinning Project management to support CAA of the Republic of Georgia. <br>Most recent project involves setting up a Hong Kong start-up airline South Pacific Airlines.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK</a>"
         }
       ]
     }
