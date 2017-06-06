@@ -682,6 +682,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-o",
           "_params": {
             "imageSize": "50",
@@ -728,12 +733,7 @@
           },
           "title": "Omer Pita",
           "text": "Omer has graduated on Zagreb University, Faculty of Transport Engineering and has been working in aviation industry since 1984. His field of expertise is aircraft maintenance and engineering, quality/compliance management in aviation and civil aviation authority management. <br>During his career he has held following management positions in aviation: Manager Material Planning, Manager Production Planning, Quality Manager in Maintenance, Director Aircraft Maintenance and Director of Croatian Civil Aviation Agency, President of Croatian National Safety Board. <br>He has following additional experience/expertise: EOQ Quality Manager, EOQ Quality Auditor, DGR Instructor, Head of Aircraft Maintenance Study and lecturer at University of Applied Sciences Velika Gorica. <br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK</a>"
         },
         {
           "_tags": [
