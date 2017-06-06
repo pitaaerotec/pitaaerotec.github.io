@@ -185,7 +185,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "center",
@@ -217,7 +217,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Pita Aerotec d.o.o."
+          "text": "Copyright (c) 2017 Pita Aerotec d.o.o. &nbsp; / &nbsp; Designed using Mobirise"
         },
         {
           "_tags": [
@@ -280,7 +280,7 @@
             }
           },
           "title": "Introduction",
-          "text": "My name is Omer Pita and I am owner and director of Pita Aerotec d.o.o. <br>Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start &nbsp;small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare on the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
+          "text": "My name is Omer Pita and I am owner and director of Pita Aerotec d.o.o. <br>Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare on the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT OMER PITA</a>"
         },
         {
