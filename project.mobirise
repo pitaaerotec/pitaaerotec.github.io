@@ -135,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pita Aerotec d.o.o.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-x\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-x\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-10\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-10\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -362,7 +362,7 @@
           "_anchor": "header3-k",
           "_params": {
             "paddingTop": "7",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -377,7 +377,7 @@
           "_anchor": "content6-l",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text1": "<p><b>Consulting:</b></p><ul><li>Review and proposal of CAA restructuring to achieve compliance with EASA and/or ICAO standards</li><li>National legal framework for ICAO compliant CAA</li><li>Strategic Planning and Financing of CAA</li><li>Compliance with EASA Authority Requirements - review and preparation for EASA standardization visits</li><li>Compliance with ICAO standards and recommended practices - review and preparation for ICAO USOAP and FAA IASA audits</li><li>Development of State Safety Program (ICAO Annex 19)</li></ul><p>&nbsp;</p>",
@@ -391,7 +391,7 @@
           "_anchor": "buttons1-p",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": "5",
             "bgColor": "#fff"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Go to Top</a>"
@@ -411,7 +411,7 @@
           "_name": "header3",
           "_anchor": "header3-x",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "7",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
@@ -484,9 +484,9 @@
           "_name": "header3",
           "_anchor": "header3-10",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": false
           },
           "title": "",
@@ -542,8 +542,8 @@
           "_name": "buttons1",
           "_anchor": "buttons1-m",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Go to Top</a>"
@@ -653,7 +653,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pita Aerotec d.o.o.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-x\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-x\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-10\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-10\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
