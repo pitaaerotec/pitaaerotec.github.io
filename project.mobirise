@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -135,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pita Aerotec d.o.o.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-x\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">About us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header2-3\">Introduction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-x\">Partnerships</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-10\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-5\">Airlines and Maintenance Organizations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-k\">Civil Aviation Authorities</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-10\" aria-expanded=\"false\">Contacts</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -228,7 +228,8 @@
             ".mbr-section-title": {
               "color": "#000000",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px"
             },
             ".mbr-section-text": {
               "color": "#000000",
@@ -279,7 +280,7 @@
               "size": 250
             }
           },
-          "title": "Introduction",
+          "title": "Introduction from Founder",
           "text": "My name is Omer Pita and I am owner and director of Pita Aerotec d.o.o. <br>Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare on the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT OMER PITA</a>"
         },
@@ -290,7 +291,8 @@
             },
             "H3": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px"
             },
             "SMALL": {
               "font-family": "'Oxygen', sans-serif",
@@ -348,6 +350,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -395,6 +400,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -463,6 +471,26 @@
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [

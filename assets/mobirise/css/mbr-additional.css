@@ -531,6 +531,7 @@ h6,
 #header2-3 .mbr-section-title {
   color: #000000;
   font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
 }
 #header2-3 .mbr-section-text {
   color: #000000;
@@ -542,6 +543,7 @@ h6,
 }
 #header3-5 H3 {
   font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
 }
 #header3-5 SMALL {
   font-family: 'Oxygen', sans-serif;
@@ -553,8 +555,18 @@ h6,
 #header3-k .mbr-section-subtitle {
   text-align: center;
 }
+#header3-k H3 {
+  font-size: 36px;
+}
 #header3-x .mbr-section-title,
 #header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-x H3 {
+  font-size: 36px;
+}
+#header3-10 .mbr-section-title,
+#header3-10 .mbr-section-subtitle {
   text-align: center;
 }
 #contacts1-i P {
