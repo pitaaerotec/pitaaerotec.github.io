@@ -565,6 +565,9 @@ h6,
 #header3-x H3 {
   font-size: 36px;
 }
+#msg-box5-z P {
+  text-align: left;
+}
 #header3-10 .mbr-section-title,
 #header3-10 .mbr-section-subtitle {
   text-align: center;

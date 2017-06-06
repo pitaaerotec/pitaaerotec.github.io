@@ -469,8 +469,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "In order to be able to provide services on more demanding projects in terms of required manpower, Pita Aerotec is cooperating with several companies and external experts worldwide. <br>In Europe, Mr. Pita is associate partner in AvioCats an EASA CAMO organization based in Zagreb, Croatia. Teamed together, two companies are able to provide packaged turnkey solutions tailored to specific needs of our customers.&nbsp;<br>In Asia/Pacific region, Pita Aerotec works on projects together with team of international &nbsp;experts working under partner company Hong Kong Aviation Consulting Service Ltd., based in Hong Kong.<br>Such collaborative and flexible approach widens the scope and complexity of offered services and allows for optimal sourcing of projects bringing better \"value for money\" for our customers.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Go to Top</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
