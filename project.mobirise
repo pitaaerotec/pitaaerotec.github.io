@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "primaryColor": "#c27606",
+        "secondaryColor": "#475577",
+        "successColor": "#2969b0",
+        "infoColor": "#2969b0",
+        "warningColor": "#2969b0",
+        "dangerColor": "#2969b0",
         "titleFont": "Oxygen",
         "subtitleFont": "Oxygen",
         "textFont": "Oxygen",
@@ -86,7 +86,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#c27606!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -229,12 +229,15 @@
               "color": "#000000",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "36px"
+              "font-size": "32px"
             },
             ".mbr-section-text": {
               "color": "#000000",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
             }
           },
           "_anchor": "header2-3",
@@ -280,8 +283,8 @@
               "size": 250
             }
           },
-          "title": "Introduction from Founder",
-          "text": "My name is Omer Pita and I am owner and director of Pita Aerotec d.o.o. <br>Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare on the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups. I am also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>, &nbsp;EASA certified CAMO organization. This partnership enables us to achieve synergy and to have capacity for carying bigger projects for our customers.<br><br>",
+          "title": "<span style=\"font-weight: normal;\">Introduction by Omer Pita, Owner</span>",
+          "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare in the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups.&nbsp;</span><br>Pita Aerotec is also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\" class=\"text-primary\">AvioCATS</a>, &nbsp;EASA certified CAMO organization based in Zagreb, Croatia and <a href=\"http://www.hkacs.com.hk\" target=\"_blank\" class=\"text-primary\">HKACS</a>, a Hong Kong based consulting company. This partnerships enable us to achieve synergy and to have capacity for carying bigger projects for our customers in Europe and Asia/Pacific region.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT OMER PITA</a>"
         },
         {
@@ -292,7 +295,7 @@
             "H3": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "36px"
+              "font-size": "32px"
             },
             "SMALL": {
               "font-family": "'Oxygen', sans-serif",
@@ -331,7 +334,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p>&nbsp;<b>Consulting:</b></p><ul><li>Quality &amp; Compliance Management implementation in Aviation Organizations</li><li>EASA compliance review and consulting:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 145,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part M,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 147,&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Air OPS</span></li><li>IOSA compliance review and consulting</li><li>ICAO compliance review and consulting:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Annex 6, 8, 19</span></li></ul><ul><li>Safety Management Systems (ICAO Annex 19) c<span style=\"font-size: 1.07rem; line-height: 1.5;\">ompliance review and consulting</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Performance of internal quality/compliance audits in Engineering and Maintenance per EASA   regulations and ICAO standards</b></span></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part M</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Part 145</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Development of organization manuals:&nbsp;</b></span><br></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">CAME Continuing Airworthiness Management Exposition (Part M)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintenance Organization Exposition Manual (Part 145),</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintenance Management Exposition Manual (ICAO Ann6, 8),&nbsp;</span><br></li><li>Quality Manual,&nbsp;</li><li>Safety Management Manual (ICAO Annex 19, Doc 9859)</li></ul><p><br></p><p><b>Aircraft purchase/lease/sales agreements assistance</b></p><p><b><br></b></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>CAMO and fleet management services (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b>:</span><br></p><ul><li>A320 family</li><li>ATR42</li><li>B767</li><li>Dash-8-Q400</li><li>other types possible</li></ul><p><br></p><p><b>AOC Start-up projects - turnkey solutions (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b></p><p><br></p><p><b>Training courses:</b></p><ul><li>&nbsp;Quality and Compliance Management Systems in Aviation</li><li>&nbsp;Aviation Quality Auditor's Training - Initial</li><li>&nbsp;Aviation Quality Auditor's Training - Advanced</li><li>&nbsp;Aircraft Maintenance Program and Maintenance Reliability Training</li></ul><p>&nbsp;</p><div><b>Personnel assignment to postholder functions (full time/part time):</b></div><ul><li>Accountable Executive</li><li>Postholder Maintenance and Engineering</li><li>Quality/Compliance Manager</li></ul>"
+          "text2": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>CAMO and fleet management services (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>)</b>:</span><br></p><ul><li>A320 family</li><li>ATR42</li><li>B767</li><li>Dash-8-Q400</li><li>other types possible</li></ul><p><br></p><p><b>AOC Start-up projects - turnkey solutions (partnership with <a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCATS</a>&nbsp;and <a href=\"http://www.hkacs.com.hk\" target=\"_blank\">HKACS</a>)</b></p><p><br></p><p><b>Training courses:</b></p><ul><li>&nbsp;Quality and Compliance Management Systems in Aviation</li><li>&nbsp;Aviation Quality Auditor's Training - Initial</li><li>&nbsp;Aviation Quality Auditor's Training - Advanced</li><li>&nbsp;Aircraft Maintenance Program and Maintenance Reliability Training</li></ul><p>&nbsp;</p><div><b>Personnel assignment to postholder functions (full time/part time):</b></div><ul><li>Accountable Executive</li><li>Postholder Maintenance and Engineering</li><li>Quality/Compliance Manager</li></ul>"
         },
         {
           "_tags": [
@@ -352,7 +355,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "32px"
             }
           },
           "_tags": [
@@ -402,7 +405,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "36px"
+              "font-size": "32px"
             }
           },
           "_tags": [
@@ -537,7 +540,7 @@
             }
           },
           "text1": "<strong>Address:</strong><br>Pita Aerotec d.o.o.<br>Petra pl. Skrleca 2<br>10410 Velika Gorica<br>Croatia<br><br><b>Registered at: </b><br>The Commercial Court in Zagreb<br>Reg. No. (MBS): 081052298<br>VAT No. (OIB): 38166894112<br><br><b>Bank account details:</b><br>IBAN: HR0423600001102563117<br>SWIFT (BIC): ZABAHR2X&nbsp;<br>Bank: Zagrebačka banka, Zagreb&nbsp;<br>",
-          "text2": "<p><strong>Contact:</strong><br>Omer Pita, director</p><p>Email: omer.pita@inet.hr<br>\nPhone CRO: +385 (99) 2772 001<br>Phone HK: +852 6356 4004</p><p>Whatsapp: +852 6356 4004</p><p>Skype: omer.pita<br>Web: http://www.pitaaerotec.com<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;https://pitaaerotec.github.io</p>",
+          "text2": "<p><strong>Contact:</strong><br>Omer Pita, director</p><p>Email: <a href=\"mailto: omer.pita@pitaaerotec.com\" target=\"_blank\">omer.pita@pitaaerotec.com</a><br>\nPhone CRO: +385 (99) 2772 001<br>Phone HK: +852 6356 4004</p><p>Whatsapp: +852 6356 4004</p><p>Skype: omer.pita<br>Web: <a href=\"index.html\">http://www.pitaaerotec.com</a><br></p>",
           "text3": "<strong>Links:</strong><br><a href=\"http://www.aviocats.com\" target=\"_blank\">AvioCats</a>&nbsp;Croatia<br><a href=\"http://www.hkacs.com.hk\" target=\"_blank\">HKACS</a>&nbsp;Hong Kong"
         },
         {
@@ -609,7 +612,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#c27606!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -689,7 +692,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "36px"
+              "font-size": "32px"
             }
           },
           "_anchor": "msg-box5-o",
