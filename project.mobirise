@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "Pita Aerotec",
+    "name": "Pita Aerotec Homepage",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Pita Aerotec",
-        "meta_descr": "Main page",
+        "title": "Pita Aerotec d.o.o.",
+        "meta_descr": "Omer Pita, Aircraft Maintenance, Quality Management, Aviation, Compliance monitoring, quality assurance, civil aviation authority, civil aviation, consulting, EASA compliance, ICAO compliance, commercial air transport, aircraft operators, aircraft, air carriers, start up airline, audit, aircraft maintenance organization, aviation training, services, support, postholder, M&E",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -193,7 +193,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\"><i>Pita Aerotec</i></span>",
+          "title": "<span style=\"font-weight: normal;\"><i>Pita Aerotec&nbsp;</i></span>",
           "text": "<span style=\"font-style: normal; line-height: 1.5; color: rgb(239, 239, 239);\">Services and Consulting in&nbsp;Aviation</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
@@ -283,8 +283,8 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Introduction by Omer Pita, Owner</span>",
-          "text": "<span style=\"font-size: 1rem; line-height: 1.5;\">Company Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare in the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups.&nbsp;</span><br>Pita Aerotec is also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\" class=\"text-primary\">AvioCATS</a>, &nbsp;EASA certified CAMO organization based in Zagreb, Croatia and <a href=\"http://www.hkacs.com.hk\" target=\"_blank\" class=\"text-primary\">HKACS</a>, a Hong Kong based consulting company. This partnerships enable us to achieve synergy and to have capacity for carying bigger projects for our customers in Europe and Asia/Pacific region.<br><br>",
+          "title": "<span style=\"font-weight: normal;\">Introduction</span><br>",
+          "text": "<i>by Omer Pita, the company owner and director<br></i><br><span style=\"font-size: 1rem; line-height: 1.5;\">Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare in the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups.&nbsp;</span><br>Pita Aerotec is also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\" class=\"text-primary\">AvioCATS</a>, &nbsp;EASA certified CAMO organization based in Zagreb, Croatia and <a href=\"http://www.hkacs.com.hk\" target=\"_blank\" class=\"text-primary\">HKACS</a>, a Hong Kong based consulting company. This partnerships enable us to achieve synergy and to have capacity for carying bigger projects for our customers in Europe and Asia/Pacific region.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT OMER PITA</a>"
         },
         {
