@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 37,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.1.2",
     "favicon": "",
     "noImageResize": ""
   },
@@ -102,6 +102,12 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#133a66",
             "fontSize": "0.95",
             "fontName": {
@@ -110,13 +116,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -175,23 +175,23 @@
           },
           "_anchor": "header1-1",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2-2000x1500.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.2"
           },
           "title": "<span style=\"font-weight: normal;\"><i>Pita Aerotec&nbsp;</i></span>",
           "text": "<span style=\"font-style: normal; line-height: 1.5; color: rgb(239, 239, 239);\">Services and Consulting in&nbsp;Aviation</span><br>",
@@ -209,13 +209,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0b2e54",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#0b2e54",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 Pita Aerotec d.o.o. &nbsp; / &nbsp; Designed with Mobirise"
         },
@@ -242,24 +242,24 @@
           },
           "_anchor": "header2-3",
           "_params": {
-            "imageSize": "49",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": "49",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -284,7 +284,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Introduction</span><br>",
-          "text": "<i>by Omer Pita, the company owner and director<br></i><br><span style=\"font-size: 1rem; line-height: 1.5;\">Pita Aerotec d.o.o. has been assocciated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare in the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups.&nbsp;</span><br>Pita Aerotec is also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\" class=\"text-primary\">AvioCATS</a>, &nbsp;EASA certified CAMO organization based in Zagreb, Croatia and <a href=\"http://www.hkacs.com.hk\" target=\"_blank\" class=\"text-primary\">HKACS</a>, a Hong Kong based consulting company. This partnerships enable us to achieve synergy and to have capacity for carying bigger projects for our customers in Europe and Asia/Pacific region.<br><br>",
+          "text": "<i>by Omer Pita, the company owner and director<br></i><br><span style=\"font-size: 1rem; line-height: 1.5;\">Pita Aerotec d.o.o. has been associated in Zagreb, Croatia in October 2016. Decision to start a small consulting business was driven by my desire to share knowledge and experience that I have gathered in 30+ years of working as a professional and manager in civil aviation. In my career, I have progressed through many middle to top management positions in the area of Aircraft Maintenance, Quality Management and finally in the area of Civil Aviation Authority Management. Being from small country, I have always worked in small organizations and I was always expected to fulfill regulatory requirements and maintain adequate safety levels in the organization using scarcely available resources, as they always are in such organizations. That kind of experience I find to be very rare in the consulting business market as most of established consulting companies are staffed with experienced personnel coming from large organizations and just for that reason, sometimes they do not deliver best services to smaller customers. Consequently, my target customers are small airlines, small maintenance organizations, small civil aviation authorities and start-ups.&nbsp;</span><br>Pita Aerotec is also closely cooperating with <a href=\"http://www.aviocats.com\" target=\"_blank\" class=\"text-primary\">AvioCATS</a>, &nbsp;EASA certified CAMO organization based in Zagreb, Croatia and <a href=\"http://www.hkacs.com.hk\" target=\"_blank\" class=\"text-primary\">HKACS</a>, a Hong Kong based consulting company. This partnerships enable us to achieve synergy and to have capacity for carying bigger projects for our customers in Europe and Asia/Pacific region.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT OMER PITA</a>"
         },
         {
@@ -308,10 +308,10 @@
           "_name": "header3",
           "_anchor": "header3-5",
           "_params": {
+            "showMeta": false,
             "paddingTop": "4",
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": false
+            "bgColor": "#ffffff"
           },
           "title": "Services for Airlines and Aircraft Maintenance Organizations",
           "meta": "By John Smith posted July 20, 2016"
@@ -364,10 +364,10 @@
           "_name": "header3",
           "_anchor": "header3-k",
           "_params": {
+            "showMeta": false,
             "paddingTop": "7",
             "paddingBottom": "4",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Services for Civil Aviation Authorities",
           "meta": "By John Smith posted July 20, 2016"
@@ -414,10 +414,10 @@
           "_name": "header3",
           "_anchor": "header3-x",
           "_params": {
+            "showMeta": false,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Partnership with other companies",
           "meta": "By John Smith posted July 20, 2016"
@@ -434,25 +434,25 @@
           },
           "_anchor": "msg-box5-z",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "3",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -492,10 +492,10 @@
           "_name": "header3",
           "_anchor": "header3-10",
           "_params": {
+            "showMeta": false,
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": false
+            "bgColor": "#efefef"
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016"
@@ -515,13 +515,13 @@
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -628,6 +628,12 @@
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#133a66",
             "fontSize": "0.95",
             "fontName": {
@@ -636,13 +642,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -675,13 +675,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0b2e54",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#0b2e54",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2017 Pita Aerotec d.o.o. &nbsp; / &nbsp; Designed with Mobirise"
         },
@@ -697,25 +697,25 @@
           },
           "_anchor": "msg-box5-o",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "50",
             "paddingTop": "3",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
